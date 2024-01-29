@@ -1,1 +1,2 @@
-# NYC-Taxi-Fare-Prediction-with-Ridge-Regression-Random-Forests-and-Gradient-Boosting
+# NYC Taxi Fare Prediction with Ridge Regression Random Forests and Gradient Boosting
+In this project, I've trained a machine learning model to predict taxi fares for rides in New York City. The model takes into account details such as pickup date and time, pickup and drop-off locations, and the number of passengers. To achieve this, I utilized algorithms Ridge Regression, Random Forest, and Gradient Boosting. After training the model, I have also submitted the resulting predictions to Kaggle.
